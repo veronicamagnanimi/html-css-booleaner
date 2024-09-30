@@ -44,27 +44,32 @@ tr {
     background-color: aqua;
 }
 
+
 .final-grey {
     color: rgb(128, 128, 128);
     font-weight: 700;
-    font-size: 20px;
+    font-size: 15px;
 }
 
-.container {
-    position: relative;
-    width: 50%;
+.finalphoto1 {
+    background-image: url(../img/monitor.jpg);
+    width: 280px;
+    height: 200px;
+    color: white;
+    font-weight: 600;
+    background-size: 60%;
+    background-repeat: no-repeat;
 }
 
-.image {
-    width: 100%;
-    height: auto;
+.finalphoto2 {
+    background-image: url(../img/graph.jpg);
+    width: 280px;
+    height: 200px;
+    color: white;
+    font-weight: 600;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    margin-top: -80px;
 }
 
-.text {
-    position: absolute;
-    text-align: left;
-    color: rgb(7, 4, 4);
-    font-size: 25px;
-    padding: 10px;
-}
 
