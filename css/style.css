@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: lightblue;
+    background-size: 500px;
+}
+
+header img {
+    height: 80px;
+}
+
+.grey-text {
+    color: rgb(128, 128, 128);
+}
+
+.blue-text {
+    color: rgb(0, 98, 255);
+}
