@@ -21,3 +21,14 @@ header img {
 .blue-text {
     color: rgb(0, 98, 255);
 }
+
+.yellow {
+    background-color: goldenrod;
+}
+
+.list {
+    margin: 5;
+    padding: 5;
+}
+
+
