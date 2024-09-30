@@ -26,9 +26,8 @@ header img {
     background-color: goldenrod;
 }
 
-.list {
-    margin: 5;
-    padding: 5;
+ul {
+    margin: 20px;
 }
 
 
